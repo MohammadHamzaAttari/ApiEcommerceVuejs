@@ -22,7 +22,7 @@
   </div>
 </div>
 <div class="total-line">
-    <span>Cart Total:</span>
+    <span>Price Total:</span>
     <span class="total">${{cartTotal}}</span>
   </div>
 </template>
